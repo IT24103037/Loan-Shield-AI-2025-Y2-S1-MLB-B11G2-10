@@ -1,4 +1,4 @@
-# LoanShield AI — Default Prediction Progress Review I 
+# LoanShield AI
 
 > **Focus for PR-I:** Data preprocessing (imbalance & split, missing values, outliers, scaling) + light **feature engineering** + baseline models with fair evaluation.
 
