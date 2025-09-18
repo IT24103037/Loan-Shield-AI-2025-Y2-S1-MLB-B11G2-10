@@ -1,4 +1,4 @@
-# LoanShield AI — Default Prediction (Progress Review I – Viva)
+# LoanShield AI — Default Prediction Progress Review I 
 
 > **Focus for PR-I:** Data preprocessing (imbalance & split, missing values, outliers, scaling) + light **feature engineering** + baseline models with fair evaluation.
 
